@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+nav {
+  background: purple;
+}
+.navegador {
+  padding-top: 25px;
+  display: flex;
+  align-items: baseline;
+  height: 80px;
+}
+
+.logo {
+  margin-right: 1800px;
+  margin-left: 50px;
+}
+
+nav a {
+  font-size: 18px;
+  text-decoration: none;
+  color: white;
+}
